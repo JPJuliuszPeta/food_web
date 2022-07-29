@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+}
+#add{
+    background-color:Azure;
+    border: dashed 5px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#add:hover{
+    background-color:brown;
+    border: dotted 5px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat;
+}
+#show{
+    margin-left: 50px;
+    color: white;
+    background-color: DarkSlateGray;
+    border: dotted 5px;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#show:hover{
+    margin-left: 150px;
+    border: dashed 5px;
+    background-color: aqua;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+#form{
+    margin-top:100px;
+    padding: 50px;
+    border: solid 5px;
+}
